@@ -22,7 +22,7 @@ To run this application we need and MongoDB running, and you can use Okteto as w
 
 **Ready?** \
 Just exec `okteto up` \
-That's it, now you can open you browser http://localhost:8080, and debugging as well.
+That's it folks, now you can open you browser http://localhost:8080, and debugging as well.
 
 # running...
 <p align="center">  
@@ -36,3 +36,5 @@ That's it, now you can open you browser http://localhost:8080, and debugging as 
   <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/request3.png?raw=true" width="800">  
 
 </p>
+
+Enjoy it!!!
