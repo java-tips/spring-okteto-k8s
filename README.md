@@ -3,7 +3,7 @@ Kubernetes for Developers
 
 Okteto(https://okteto.com/) is a great tool and you don't need docker or k8s installed in your machine.
 You don't even need to know them. \
-To start, you just need to install the Okteto CLI to use your preferred IDE and focus just on the code. \
+To start, you just need to install the Okteto CLI, use your preferred IDE and focus just on the code. \
 Below are the steps to start with it.
 
 **First step** \
