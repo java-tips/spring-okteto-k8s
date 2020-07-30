@@ -24,6 +24,15 @@ To run this application we need and MongoDB running, and you can use Okteto as w
 Just exec `okteto up` \
 That's it, now you can open you browser http://localhost:8080, and debugging as well.
 
-# examples
-<p align="center">
+# running...
+<p align="center">  
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/deploy-mongo.png?raw=true" width="800">
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/mongo-logs.png?raw=true" width="800">  
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/java-app-okteto-logs.png?raw=true" width="800">
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/idea-logs.png?raw=true" width="800">
+  
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/request1.png?raw=true" width="800">
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/request2.png?raw=true" width="800">
+  <img src="https://github.com/java-tips/spring-okteto-k8s/blob/development/assets/request3.png?raw=true" width="800">  
+
 </p>
