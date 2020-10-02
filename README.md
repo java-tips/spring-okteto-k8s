@@ -1,4 +1,6 @@
 # spring-okteto-k8s
+[![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6ImphdmEtdGlwcyIsInJlcG8xIjoic3ByaW5nLW9rdGV0by1rOHMiLCJpbmNsdWRlTGludCI6ZmFsc2UsImF1dGhvcklkIjoyMzQzOCwiaWF0IjoxNjAxNjQxMTM4fQ.2byTbcCEwdloxuCi-3stw7PNaHnKNamE1_51lFSl1rM)](https://www.deepcode.ai/app/gh/java-tips/spring-okteto-k8s/_/dashboard?utm_content=gh%2Fjava-tips%2Fspring-okteto-k8s)
+
 Kubernetes for Developers
 
 Okteto(https://okteto.com/) is a great tool and you don't need docker or k8s installed in your machine.
